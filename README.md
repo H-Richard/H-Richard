@@ -8,6 +8,11 @@
 
 ![google-search](https://user-images.githubusercontent.com/44233784/86960308-514e5a80-c12d-11ea-9de3-0db333efdea5.gif)
 
+<details>
+  <summary><b>:telescope: 2021 goal</b></summary>
+  I want to revisit Asia sometime and experience the technology scene there, I heard the developers there love to use <a href="https://vuejs.org/">Vue</a> 🤭. Also might take a crack at some AR/VR projects.
+</details>
+
 <!--
 **H-Richard/H-Richard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
