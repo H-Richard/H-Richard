@@ -2,7 +2,7 @@
 
 🇨🇦 I'm based in Toronto, CA.
 
-🥰 My favorite technologies are [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Golang](https://golang.org/). ([Flutter](https://flutter.dev/), [Docker](https://www.docker.com/) and [Deno](https://deno.land/) are cool too)
+🥰 My favorite technologies are [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Golang](https://golang.org/). ([Elixir](https://elixir-lang.org/), [Flutter](https://flutter.dev/), [Docker](https://www.docker.com/) and [Deno](https://deno.land/) are cool too)
 
 👔 I work at [Shopify](https://www.shopify.ca/) as a Software Engineer Intern. For more information about me, check out my website [h-richard.com](https://h-richard.com/).
 
