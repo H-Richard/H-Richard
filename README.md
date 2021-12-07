@@ -3,7 +3,7 @@
 I'm currently a Software Developer Intern at [Shopify](https://www.shopify.ca/), I'm based in Toronto, CA. 🇨🇦   
 I'm a 4th year student pursuing a Bachelor's in Computer Science at the University of Toronto. 🏛️  
 I also work on various Human-AI interaction research projects at the [Computational Social Science Lab](http://csslab.cs.toronto.edu/). 🔎  
-In the past, I intered at [Amazon](https://www.aboutamazon.com/) as a Software Development Engineer and [IBM](https://www.ibm.com/) as a Software Engineer. 👷‍♂️  
+In the past, I interned at [Amazon](https://www.aboutamazon.com/) as a Software Development Engineer and [IBM](https://www.ibm.com/) as a Software Engineer. 👷‍♂️  
 I also occasionally post software engineering and computer science related videos on my [YouTube Channel](https://www.youtube.com/c/H-Richard). 📹
 
 <details> 
