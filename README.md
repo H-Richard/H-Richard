@@ -25,7 +25,7 @@ These are cool too!
 <div>
 
 Cool stats!  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-richard&hide=jupyter%20notebook,TeX,scss,javascript,java,html,css&theme=city_lights"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-richard&layout=compact&hide=jupyter%20notebook,TeX,scss,javascript,java,html,css&theme=city_lights"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=h-richard&count_private=true&theme=city_lights"/>
 </div>
 
